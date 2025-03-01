@@ -24,7 +24,7 @@
 ---
 
 ### 📫 Connect with Me  
-📷 **Instagram:** [@cook_with_ss](https://www.instagram.com/cook_with_ss__?igsh=N3o2ZjlnMmpyb2dr)  
+📷 **Instagram:** [web_craftstudio_](https://www.instagram.com/web_craftstudio_?igsh=N3o2ZjlnMmpyb2dr)  
 
 ---
 
