@@ -15,6 +15,16 @@
 - ⚡ Open to **collaborations & freelance projects**.  
 
 ---
+### 📂 Featured Projects  
+🚀 **1. [Portfolio Website]([https://github.com/yourusername/portfolio](https://mrss-designs.github.io/portfolio-/))**  
+🎨 A clean & modern **personal portfolio** built using **HTML, CSS, and JavaScript**.  
+
+🚀 **2. [Landing Page UI]([https://github.com/yourusername/landing-page](https://mrss-designs.github.io/product-landings-/))**  
+📱 A **fully responsive landing page** for businesses & startups.  
+
+📌 **More Projects →** [Check my repositories]([https://github.com/yourusername?tab=repositories](https://github.com/MrSS-DESIGNs?tab=repositories))  
+
+---
 
 ### 💻 Skills & Technologies  
 <p align="center">
